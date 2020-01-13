@@ -1,0 +1,98 @@
+* {
+    margin: 0px 10px 0px;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: brown;
+    color: bisque;
+    text-align: center;
+}
+
+h4 {
+    color: rgb(36, 4, 36);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    padding: 10px 0px 15px 0px;
+    text-align: center;
+}
+
+footer {
+    clear: both;
+    padding: 10px 5px;
+    background-color: brown;
+    color: bisque;
+    text-align: center;
+    font-size: 18px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    text-align: center;
+    margin: 0;
+    color: black;
+    padding: 10px;
+}
+
+p {
+    margin: 5px 0 10px 0;
+}
+
+#obrada {
+    background-color: beige;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#vrste ul li {
+    padding: 3px;
+    margin: 0;
+}
+
+#vrste ol {
+    list-style-type: none;
+    padding: 3px;
+}
+
+img:hover {
+    opacity: 50%;
+    text-decoration: none;
+}
+
+.radio {
+    text-align: center;
+    padding: 10px;
+    background-image: url(https://belimeda.rs/wp-content/uploads/2017/09/chocolate.png);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.kupovina {
+    align-content: center;
+}
+
+i {
+    color: red;
+}
